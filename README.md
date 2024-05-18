@@ -1,8 +1,3 @@
-### Cláudio
-
-
-
-
 - 👋 Hi, I’m @Prates-Junior
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
