@@ -24,7 +24,7 @@ Curioso sobre programação e estudando Python , Javascript e PHP nas horas vaga
 &nbsp;<a href="https://llucaslleall.medium.com/">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/_llucaslleall/">
+&nbsp;<a href="https://www.instagram.com/claudiocesarpratesjunior/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 
 
