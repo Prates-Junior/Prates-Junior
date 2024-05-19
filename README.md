@@ -12,6 +12,10 @@ Curioso sobre programação e estudando Python , Javascript e PHP nas horas vaga
           &nbsp;&nbsp;
 </div> 
 
+##
+
+
+
 #### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/claudiocesarpratesjuniorpcdadm/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -25,7 +29,7 @@ Curioso sobre programação e estudando Python , Javascript e PHP nas horas vaga
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
 - <a href="https://github.com/lucaslealx/HousePrices/tree/main#readme">
-    Projeto Kaggle: prevendo o preço das casas (House Prices)
+    Diferenças entre os Métodos dos Protocolos GET e POST
   </a>
   
 
