@@ -29,12 +29,12 @@ Curioso sobre programação e estudando Python , Javascript e PHP nas horas vaga
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
 - <a href="https://github.com/lucaslealx/HousePrices/tree/main#readme">
-    Diferenças entre os Métodos dos Protocolos GET e POST
+    Diferenças entre os Métodos dos Protocolos GET e POST (Medium)
   </a>
   
 
 - <a href="https://llucaslleall.medium.com/5-dicas-que-eu-gostaria-de-ter-escutado-quando-comecei-em-ci%C3%AAncia-de-dados-721735cd83c2">
-    5 dicas que eu gostaria de ter escutado quando comecei em Ciência de Dados (Medium)
+    Prevenindo Fraudes na Era Digital: Como Proteger seus Dados e Evitar Cair em Armadilhas na Internet (Medium)
   </a>
 
 <!---
