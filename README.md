@@ -8,7 +8,8 @@
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/pythonoriginal.svg"/>&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<imgwidth='50'height='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/luaoriginalwordmark.svg"/>&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50'height='50'src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />&nbsp;&nbsp;
 </div> 
 
 
