@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Cláudio Junior
 
 
-- 👨🏻‍💻 ** Estudante de CyberSegurança** na CySource
+- 👨🏻‍💻 **Estudante de CyberSegurança** na CySource
 - 🏊‍♀️ Gosto de Praticar Natação
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
