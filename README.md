@@ -12,7 +12,7 @@ Atualmente, estou estudando CyberSegurança na CySource!!!
 </div> 
 
 #### Você também me encontra em:
-&nbsp;<a href="https://br.linkedin.com/in/lucas-leal-santos">
+&nbsp;<a href="https://www.linkedin.com/in/claudiocesarpratesjuniorpcdadm/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
 &nbsp;<a href="https://llucaslleall.medium.com/">
