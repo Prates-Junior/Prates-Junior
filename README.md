@@ -20,10 +20,7 @@ Atualmente, estou estudando CyberSegurança na CySource!!!
 </a>&nbsp;
 &nbsp;<a href="https://www.instagram.com/_llucaslleall/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.youtube.com/@HashtagProgramacao">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>&nbsp;
+
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
 - <a href="https://github.com/lucaslealx/HousePrices/tree/main#readme">
