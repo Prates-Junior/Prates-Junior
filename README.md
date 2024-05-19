@@ -1,5 +1,6 @@
 ### Olá, Eu sou o Cláudio Junior
-Atualmente Estudante de CyberSegurança, Curioso sobre programação e estudando Python , Javascript e PHP nas horas vagas.!!!
+Atualmente Estudante de CyberSegurança, 
+Curioso sobre programação e estudando Python , Javascript e PHP nas horas vagas!!!
 
 - 👨🏻‍💻 **Estudante de CyberSegurança** na CySource
 - 🏊‍♀️ Gosto de Praticar Natação
