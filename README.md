@@ -2,7 +2,7 @@
 
 
 - 👨🏻‍💻 ** Estudante de CyberSegurança** na CySource
-- 🏊‍♀️ I’m interested in ...
+- 🏊‍♀️ Gosto de Praticar Natação
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
