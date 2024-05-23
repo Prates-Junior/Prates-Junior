@@ -34,7 +34,7 @@ Curioso sobre Tecnologia e estudando Python , Javascript e PHP nas horas vagas!!
   </a>
   
 
-- <a href="https://medium.com/@cpratesjunior/diferen%C3%A7as-entre-get-e-post-a9349f20c4fe">
+- <a href="https://medium.com/@cpratesjunior/prevenindo-fraudes-na-era-digital-como-proteger-seus-dados-e-evitar-cair-em-armadilhas-na-75bd8115c494">
     Diferenças entre GET e POST (Medium)
   </a>
 
