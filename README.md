@@ -29,8 +29,8 @@ Curioso sobre Tecnologia e estudando Python , Javascript e PHP nas horas vagas!!
 
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
-- <a [href="https://github.com/lucaslealx/HousePrices/tree/main#readme](https://medium.com/@cpratesjunior/diferen%C3%A7as-entre-get-e-post-a9349f20c4fe)">
-    Diferenças entre os Métodos dos Protocolos GET e POST (Medium)
+- <a href="https://medium.com/@cpratesjunior/diferen%C3%A7as-entre-get-e-post-a9349f20c4fe">
+    Prevenindo Fraudes na Era Digital: Como Proteger seus Dados e Evitar Cair em Armadilhas na Internet (Medium)
   </a>
   
 
