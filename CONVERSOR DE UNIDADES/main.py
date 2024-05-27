@@ -1,7 +1,6 @@
 import customtkinter
 from pegar_moedas import nomes_moedas, conversoes_disponiveis
 
-
 # Configurações iniciais da janela
 customtkinter.set_appearance_mode("dark")
 customtkinter.set_default_color_theme("dark-blue")
@@ -20,9 +19,13 @@ texto_moeda_destino = customtkinter.CTkLabel(janela, text="Selecione a moeda de 
 
 # Função para carregar moedas de destino com base na moeda de origem selecionada
 def carregar_moedas_destino(moeda_selecionada):
-    lista_moedas_destino = dic_conversoes_disponiveis[moeda_selecionada]
-    campo_moeda_destino.configure(values=lista_moedas_destino)
-    campo_moeda_destino.set(lista_moedas_destino[0])  # Define a primeira moeda de destino como selecionada
+    try:
+        lista_moedas_destino = dic_conversoes_disponiveis[moeda_selecionada]
+        campo_moeda_destino.configure(values=lista_moedas_destino)
+        campo_moeda_destino.set(lista_moedas_destino[0])  # Define a primeira moeda de destino como selecionada
+    except KeyError:
+        campo_moeda_destino.configure(values=["Moeda não disponível"])
+        campo_moeda_destino.set("Moeda não disponível")
 
 # Carrega os nomes das moedas disponíveis
 moedas_disponiveis = nomes_moedas()
@@ -37,7 +40,7 @@ def converter_moeda():
     moeda_origem = campo_moeda_origem.get()
     moeda_destino = campo_moeda_destino.get()
     if moeda_origem and moeda_destino:
-        cotacao = pegar_cotacao_moeda(moeda_origem, moeda_destino)
+        cotacao = texto_cotacao_moeda(moeda_origem, moeda_destino)
         texto_cotacao_moeda.configure(text=f"1 {moeda_origem} = {cotacao} {moeda_destino}")
 
 # Botão para realizar a conversão
