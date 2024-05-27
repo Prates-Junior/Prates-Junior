@@ -7,7 +7,7 @@ customtkinter.set_default_color_theme("dark-blue")
 
 # Inicializa a janela principal
 janela = customtkinter.CTk()
-janela.geometry("500x600")
+janela.geometry("500x600") 
 
 # Carrega as conversões disponíveis
 dic_conversoes_disponiveis = conversoes_disponiveis()
